@@ -13,7 +13,7 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW 04" />
+ <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05" />
 </p>
 
 <br>
@@ -32,7 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+[Podcastrnext](https://podcastrnext-nlw-5.vercel.app) para trazê-lo ainda mais perto dos melhores podcasts de tecnologia!
+Este é um projeto desenvolvido durante a **[Next Level Week 5](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante 19 a 25 de abril de 2021.
 
 ## 🔖 Layout
 
