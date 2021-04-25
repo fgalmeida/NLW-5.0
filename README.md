@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="move.it" title="move.it" src="github/logo.png" />
+  <img alt="Podcastr" title="move.it" src="github/logo.png" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src="github/moveit.png" width="100%">
+  <img alt="Podcastr" src="github/preview.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
