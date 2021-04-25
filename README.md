@@ -36,15 +36,17 @@ O move.it é um app que une a técnica de Pomodoro com a realização de exercí
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 🚀 Como executar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn dev`
+- Inicie o servidor JSON com `yarn server`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+Agora você pode acessar o servidor JSON [`localhost:3333`](http://localhost:3333) do seu navegador.
 
 ## 📄 Licença
 
@@ -52,5 +54,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 💙 by Felipe Almeida
+Feito com 💜 by Felipe Almeida
 
