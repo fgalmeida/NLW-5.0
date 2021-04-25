@@ -46,6 +46,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - Inicie o servidor JSON com `yarn server`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+
 Agora você pode acessar o servidor JSON [`localhost:3333`](http://localhost:3333) do seu navegador.
 
 ## 📄 Licença
